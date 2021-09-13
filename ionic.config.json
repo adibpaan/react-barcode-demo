@@ -1,0 +1,7 @@
+{
+  "name": "react-barcode-demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
